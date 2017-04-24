@@ -10,7 +10,7 @@ The first thing you want to do with this repo is quite likely **fork it**.  Use 
 Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
 [branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/), issues, milestones, labels, the wiki and more.
 [issues](https://guides.github.com/features/issues/), issues, milestones, labels, the wiki and more.
-[milestones]https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/), issues, milestones, labels, the wiki and more.
+[milestones](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/), issues, milestones, labels, the wiki and more.
 [labels](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/), issues, milestones, labels, the wiki and more.
 [wiki](https://help.github.com/articles/about-github-wikis/), issues, milestones, labels, the wiki and more.
 ## What’s in there?
